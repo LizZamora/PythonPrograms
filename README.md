@@ -8,6 +8,5 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contact
-<p style="text-align:center;"> [![Linkedin Badge](https://img.shields.io/badge/-Lourdes_Zamora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lizzaor//)](www.linkedin.com/in/lizzaor) [![Gmail Badge](https://img.shields.io/badge/-Lourdes_Zamora-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:lourdeszamora58@gmail.com)</p>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ [![Linkedin Badge](https://img.shields.io/badge/-Lourdes_Zamora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lizzaor//)](www.linkedin.com/in/lizzaor) [![Gmail Badge](https://img.shields.io/badge/-Lourdes_Zamora-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:lourdeszamora58@gmail.com)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
